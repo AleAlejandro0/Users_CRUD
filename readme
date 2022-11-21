@@ -1,0 +1,12 @@
+// In this project we will create a CRUD database of users, where the guess can see al the users, create a new one and find with the users id 
+
+// Will be used the methods:
+  // Get - to brignth all users 
+  // Post - to create a new one 
+  // Get with paramether id - to find a specific user 
+
+// 1. Create in controllers the actions that will be executed by our services
+// 2. execute our controllers and make our servicer reponse on services file
+// 3. create our routes on router file and attach our services 
+// 4. Attach all the funtionality to our app file 
+// 5. generate adittional funtions to update and delete our users 
